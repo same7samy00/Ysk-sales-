@@ -1,10 +1,9 @@
-
 const CACHE_NAME = 'pos-cache-v1';
 const urlsToCache = [
   '/',
   '/index.html',
   '/manifest.json',
-  '/vite.svg',
+  './vite.svg',
   // Add other assets like CSS, JS, and images here
 ];
 
