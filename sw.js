@@ -3,7 +3,7 @@ const urlsToCache = [
   '/',
   '/index.html',
   '/manifest.json',
-  './vite.svg',
+  '/YSK-SALES.png',
   // Add other assets like CSS, JS, and images here
 ];
 

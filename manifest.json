@@ -3,12 +3,12 @@
   "name": "YSK SALES | لإدارة المبيعات",
   "icons": [
     {
-      "src": "./YSK-SALES.png",
+      "src": "/YSK-SALES.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "./YSK-SALES.png",
+      "src": "/YSK-SALES.png",
       "type": "image/png",
       "sizes": "512x512"
     }
@@ -19,12 +19,12 @@
   "background_color": "#f3f4f6",
   "screenshots": [
     {
-      "src": "./screenshot1.png",
+      "src": "/screenshot1.png",
       "type": "image/png",
       "sizes": "1280x720"
     },
     {
-      "src": "./screenshot2.png",
+      "src": "/screenshot2.png",
       "type": "image/png",
       "sizes": "1280x720"
     }

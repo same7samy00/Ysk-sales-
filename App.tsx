@@ -1,4 +1,6 @@
 
+import './index.css';
+
 import React, { useState, createContext, useContext, useEffect, useCallback } from 'react';
 import { Page, Product, Customer, Invoice, Unit, User, SystemSettings } from './types';
 import Layout from './components/Layout';

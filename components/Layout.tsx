@@ -49,7 +49,7 @@ const Sidebar = ({ onLogout }: { onLogout: () => void }) => {
       </nav>
       <div className="px-4 py-4 border-t">
         <div className="hidden lg:block text-center text-xs text-black">
-            <img src="./YSK-SALES.png" alt="YSK SALES Logo" className="h-10 w-10 mx-auto mb-2"/>
+            <img src="/Ysk-sales-/YSK-SALES.png" alt="YSK SALES Logo" className="h-10 w-10 mx-auto mb-2"/>
             <p>Developed by: Sameh reda</p>
             <p>للدعم الفني والمبيعات</p>
             <div className="flex justify-center items-center my-2">
